@@ -9,7 +9,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Tu organización GH como teacher
 * Enlaces a los GH profiles de los otros miembros del equipo como alumnos
 
-## Sahyli Devora
+## Daniel Garrido
 
 * [GH Classroom]()
 * [Organización de Clase]()
@@ -19,6 +19,15 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
   * [Alumno 2]()
 
 ## Paola Gonzalez
+
+* [GH Classroom]()
+* [Organización de Clase]()
+* [Profesor]()
+* Alumnos en la organización
+  * [Alumno 1]()
+  * [Alumno 2]()
+
+## Sahylí Dévora
 
 * [GH Classroom]()
 * [Organización de Clase]()
