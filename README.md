@@ -20,12 +20,12 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Paola Gonzalez
 
-* [GH Classroom]()
-* [Organización de Clase]()
-* [Profesor]()
+* [GH Classroom](https://classroom.github.com/classrooms/149103980-ull-mfp-aet-2324-alu0100773231)
+* [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100773231)
+* [Profesor](https://github.com/Paolacolli)
 * Alumnos en la organización
-  * [Alumno 1]()
-  * [Alumno 2]()
+  * [Alumno 1](https://github.com/danielgarridocruz)
+  * [Alumno 2](https://github.com/Sahyli)
 
 ## Sahylí Dévora
 
