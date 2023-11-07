@@ -15,8 +15,8 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100099904)
 * [Profesor](https://github.com/danielgarridocruz)
 * Alumnos en la organización
-  * [Alumno 1]()
-  * [Alumno 2]()
+  * [Alumno 1](https://github.com/Sahyli)
+  * [Alumno 2](https://github.com/Paolacolli)
   * [Alumno 3]()
 
 ## Paola Gonzalez
@@ -45,6 +45,6 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * [Organización de Clase]()
 * [Profesor]()
 * Alumnos en la organización
-  * [Alumno 1]()
-  * [Alumno 2]()
-  * [Alumno 3]()
+  * [Alumno 1](https://github.com/danielgarridocruz)
+  * [Alumno 2](https://github.com/Sahyli)
+  * [Alumno 3](https://github.com/Paolacolli)
