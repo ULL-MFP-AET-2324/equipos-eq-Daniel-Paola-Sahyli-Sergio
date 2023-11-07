@@ -17,7 +17,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Alumnos en la organización
   * [Alumno 1](https://github.com/Sahyli)
   * [Alumno 2](https://github.com/Paolacolli)
-  * [Alumno 3]()
+  * [Alumno 3](https://github.com/sergio-gr1234)
 
 ## Paola Gonzalez
 
@@ -27,7 +27,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Alumnos en la organización
   * [Alumno 1](https://github.com/danielgarridocruz)
   * [Alumno 2](https://github.com/Sahyli)
-  * [Alumno 3]()
+  * [Alumno 3](https://github.com/sergio-gr1234)
 
 ## Sahylí Dévora
 
@@ -37,13 +37,13 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Alumnos en la organización
   * [Alumno 1](https://github.com/danielgarridocruz)
   * [Alumno 2](https://github.com/Paolacolli)
-  * [Alumno 3]()
+  * [Alumno 3](https://github.com/sergio-gr1234)
 
 ## Sergio Gutierrez
 
 * [GH Classroom]()
 * [Organización de Clase]()
-* [Profesor]()
+* [Profesor](https://github.com/sergio-gr1234)
 * Alumnos en la organización
   * [Alumno 1](https://github.com/danielgarridocruz)
   * [Alumno 2](https://github.com/Sahyli)
