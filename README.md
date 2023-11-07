@@ -11,9 +11,9 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Daniel Garrido
 
-* [GH Classroom]()
-* [Organización de Clase]()
-* [Profesor]()
+* [GH Classroom](https://classroom.github.com/classrooms/149103967-ull-mfp-aet-2324-alu0100099904)
+* [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100099904)
+* [Profesor](https://github.com/danielgarridocruz)
 * Alumnos en la organización
   * [Alumno 1]()
   * [Alumno 2]()
