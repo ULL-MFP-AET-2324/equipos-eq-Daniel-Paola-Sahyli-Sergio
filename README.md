@@ -35,3 +35,12 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Alumnos en la organización
   * [Alumno 1]()
   * [Alumno 2]()
+
+## Sergio Gutierrez
+
+* [GH Classroom]()
+* [Organización de Clase]()
+* [Profesor]()
+* Alumnos en la organización
+  * [Alumno 1]()
+  * [Alumno 2]()
