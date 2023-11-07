@@ -41,8 +41,8 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Sergio Gutierrez
 
-* [GH Classroom]()
-* [Organización de Clase]()
+* [GH Classroom](https://classroom.github.com/classrooms/149104090-ull-mfp-aet-2324-alu0100224023)
+* [Organización de Clase](https://github.com/ULL-MFP-AET-2324-alu0100224023)
 * [Profesor](https://github.com/sergio-gr1234)
 * Alumnos en la organización
   * [Alumno 1](https://github.com/danielgarridocruz)
