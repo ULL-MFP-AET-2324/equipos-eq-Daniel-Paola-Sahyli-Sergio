@@ -17,6 +17,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Alumnos en la organización
   * [Alumno 1]()
   * [Alumno 2]()
+  * [Alumno 3]()
 
 ## Paola Gonzalez
 
@@ -26,15 +27,17 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Alumnos en la organización
   * [Alumno 1](https://github.com/danielgarridocruz)
   * [Alumno 2](https://github.com/Sahyli)
+  * [Alumno 3]()
 
 ## Sahylí Dévora
 
 * [GH Classroom]()
-* [Organización de Clase]()
-* [Profesor]()
+* [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100312201)
+* [Profesor](https://github.com/Sahyli)
 * Alumnos en la organización
-  * [Alumno 1]()
-  * [Alumno 2]()
+  * [Alumno 1](https://github.com/danielgarridocruz)
+  * [Alumno 2](https://github.com/Paolacolli)
+  * [Alumno 3]()
 
 ## Sergio Gutierrez
 
@@ -44,3 +47,4 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Alumnos en la organización
   * [Alumno 1]()
   * [Alumno 2]()
+  * [Alumno 3]()
